@@ -1,6 +1,6 @@
-# Aidaxis - Digital Health Companion
+# Aidaxis - Personal Health Management System
 
-Aidaxis is a digital health companion web application designed to help users manage daily health activities such as nutrition tracking, medication reminders, blood donor requests, and digital health document storage.
+Aidaxis is a digital healthcare web application designed to support personal health management through an integrated set of tools for nutrition tracking, medication reminders, blood donor requests, and digital health document storage. The platform helps users organize their daily health activities, monitor important health-related data, and access essential records in one place through a simple and user-friendly interface.
 
 ## Features
 
